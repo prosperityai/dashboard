@@ -1,6 +1,6 @@
 {
-  "name": "Hey Taxi Admin Dashboard",
-  "short_name": "Hey Taxi Admin",
+  "name": "Hey UzaSmart Admin Dashboard",
+  "short_name": "Hey UzaSmart  Admin",
   "description": "Admin panel for hey taxi based on polymer 2.0",
   "start_url": "./?homescreen=1",
   "display": "standalone",
